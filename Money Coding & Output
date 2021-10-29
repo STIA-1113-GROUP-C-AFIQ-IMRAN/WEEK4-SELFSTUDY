@@ -1,0 +1,21 @@
+Coding:
+package selfStudy;
+
+public class Money {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int dollars = 20;
+		double money = dollars;
+		
+		System.out.println("Dollars:" + dollars);
+		System.out.println("Money:" + money);
+
+	}
+
+}
+
+Output:
+Dollars:20
+Money:20.0
