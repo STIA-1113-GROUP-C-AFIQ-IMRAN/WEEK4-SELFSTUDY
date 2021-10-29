@@ -1,0 +1,19 @@
+Coding:
+package selfStudy;
+
+public class Casting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int total = 50;
+		float result = (float) total / 6;
+		
+		System.out.println(result);
+
+
+	}
+
+}
+
+Output:
+8.333333
